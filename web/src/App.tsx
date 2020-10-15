@@ -8,7 +8,7 @@ import logoImg from './images/logo.svg'
 function App() {
   return (
     <div id="page-landing">
-      <div className=".content-wrapper">
+      <div className="content-wrapper">
          <img src={logoImg} alt="Happy"/>
 
          <main>
