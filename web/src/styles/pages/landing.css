@@ -55,6 +55,10 @@
     text-align: right;
 }
 
+.content-wrapper .location strong{
+    font-weight: 800px;
+}
+
 .content-wrapper .enter-app {
     position: absolute;
     right: 0;
